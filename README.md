@@ -1,4 +1,8 @@
-### Hi there 👋
+# I make  dumb things 
+# for     dumb people 
+# using   dumb languages 
+# on      dumb platforms
+# with    dumb editors
 
 <!--
 **Weigurde/weigurde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
